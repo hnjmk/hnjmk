@@ -2,6 +2,7 @@
 
 I'm an Entry-Level Support Engineer with a strong foundation in computer hardware, networking, and server management Looking for work oppourtunity, Passionate about solving technical problems and optimizing systems and computer Networks and a recent graduate in BSC(PCM) with highly motivated and enthusiastic individual with strong passion for learning and growth. Eager to apply skills and knowledge in a real-world setting.I look forward to connecting with like-minded professionals.
 
+
 ## 🛠️ Tools & Technologies.
 
 ![Windows Server](https://img.shields.io/badge/-Windows_Server-0078D4?logo=microsoft-windows&logoColor=white)
@@ -9,31 +10,46 @@ I'm an Entry-Level Support Engineer with a strong foundation in computer hardwar
 ![CCNA](https://img.shields.io/badge/-CCNA-0099FF?logo=cisco&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
 
+
 ## 🚀 Skills & Technologies
 
 ### 🖥️ **Computer Hardware**
 - Installation and troubleshooting
 - Component diagnostics
-- System upgrades
+- System upgrade
+  
 
 ### 🌐 **Networking**
 - **CCNA Certified**
 - Network configuration and management
 - Troubleshooting connectivity issues
+  
 
 ### 🖥️ **Windows Server**
 - Installation and configuration
 - Active Directory management
 - Server maintenance
+  
 
 ### ☁️ **AWS**
 - EC2, S3, MFA
 - Cloud infrastructure management
 - Basic deployment and monitoring
+  
 
 ### 🐧 **Linux**
 - System installation and configuration
 - Command-line interface
+
+
+##  📚 **Education**
+
+- 10th Grade: Secondary Education
+    - Passed SSC (Secondary School Certificate) / SSLC (Secondary School Leaving Certificate) in [2017-2019]
+- 12th Grade: Higher Secondary Education
+    - Passed HSC (Higher Secondary Certificate) / PUC (Pre-University Course) in [2019-2021]
+- Bachelor of Science in PCM, Maharshi Dayanand University (2021-2024)
+- Relevant coursework: CHNA, Computer Systems
 
 
 ## 💼 Experience
@@ -48,19 +64,24 @@ I'm an Entry-Level Support Engineer with a strong foundation in computer hardwar
     - Attend various workshops
     - social engineering by attend various Hack Up meet
     - involve in various field and gain knowledge
-
+      
 
 ## 📚 Projects
 
 ### 🌐 **Configure topology CCNA**
 - BGP
 - ENCAPSULATION
+  
 
-### ☁️ **AWS VPC **
+### ☁️ **AWS**
+- EC2 instance
+- VPC ( virtual private cloud )
+  
 
 You can download my resume in PDF format from the following link:
 
 [Download My Resume](https://drive.google.com/file/d/1656f1KT4IoOidlw7Dm76viSWV-IzM-gx/view?usp=drive_link) <!-- Replace with the actual URL to your resume -->
+
 
 ## 📫 Connect with Me
 
